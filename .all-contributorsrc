@@ -358,9 +358,28 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jpotts18",
+      "name": "Jeff Potter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2466729?v=4",
+      "profile": "http://mangovoice.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kenneth-gray",
+      "name": "Kenny Gray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10341832?v=4",
+      "profile": "https://github.com/kenneth-gray",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "repoHost": "https://github.com",
   "contributorsPerLine": 7,
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
